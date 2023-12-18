@@ -237,7 +237,7 @@ align-items: center;
 .pricing h4,
 .pricing h5,
 .pricing h6 {
-  color: #3e4555;
+    color: var(--c-body);
 }
 
 .pricing .font-weight-medium {
